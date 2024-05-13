@@ -2,7 +2,8 @@
 On this website you can find an available doctors and book an appointment for medical visit.
 
 ## 1. How to use this website
-- On this website the user can *register* to be able to see the available doctors.![alt text](signup_form_design.png)
+- On this website the user can *register* to be able to see the available doctors. ![signup_form_design](https://github.com/tamarahegyi/grihf-frontend_capstone_starter_code/assets/162414130/977206ec-1e9a-47fe-8e40-f7d8e18db17d)
+
 - If the user already has an account they are able to *log in*.![alt text](login_form_design.png)
 - After loggig the user can view their own account details and reviews and ratings of our doctors.
 - They will be able to *find a doctor* that is most suitable for their needs. ![alt text](appt_search_design.png)
